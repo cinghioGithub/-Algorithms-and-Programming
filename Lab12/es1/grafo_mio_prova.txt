@@ -1,0 +1,16 @@
+7
+Torino
+Milano
+Venezia
+Aosta
+Verbania
+Trieste
+Palermo
+Torino Milano 3
+Milano Venezia 4
+Aosta Milano 5
+Venezia Aosta 10
+Verbania Torino 1
+Verbania Milano 3
+Venezia Trieste 2
+Trieste Palermo 20

@@ -1,0 +1,4 @@
+A0003 Luca Fivoli 12/01/1998 Granaglie Almese 10040
+A0001 Andrea Otta 23/09/2001 AlmaBertolo Giaveno 10045
+A0008 Stefano Milla 12/02/2000 Coazze Rivoli 12001
+A0015 Alberto Milazzo  09/12/1992 Torino Alpignano 10012

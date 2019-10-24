@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Cinghio/Desktop/PoliTo/Algoritmi e programmazione/Esercitazioni/Lab02/es2/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

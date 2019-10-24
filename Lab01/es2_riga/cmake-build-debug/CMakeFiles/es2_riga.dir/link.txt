@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/es2_riga.dir/main.c.o  -o es2_riga.exe -Wl,--out-implib,libes2_riga.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
